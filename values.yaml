@@ -2,7 +2,7 @@ image:
   repository: ivandemin3467/lesson1_docker
   tag: "1.0"
 
-replicas: 3
+replicas: 2
 
 rollingUpdate:
   maxSurge: 1
